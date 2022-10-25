@@ -5,3 +5,7 @@ We present a new weapon for the Halloween event. It is a scythe that can be used
 ## SCREENSHOTS
 
 ![DEATH](https://media.discordapp.net/attachments/1027252250357289120/1029823533272014891/DEATH.png)
+
+## qb-core
+
+to install on qb-core servers, read the framework_install/qb-core/install.md file
